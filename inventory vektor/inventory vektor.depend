@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1571073179 source:c:\users\user\desktop\inventory_vektor\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	<cstdlib>
+
+1571105430 source:d:\kuliah\semester 6\game programming\inventory vektor\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	<cstdlib>
+	<time.h>
+
