@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570093954 source:d:\kuliah\semester 6\game programming\acak kata\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
